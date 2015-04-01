@@ -71,7 +71,6 @@
             <div>
               <a href="/seminar/sub/source" class="list-group-item">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Files & Source Codes</a>
               <a href="/seminar/sub/board" class="list-group-item">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Board</a>
-              <a href="/seminar/sub/web" class="list-group-item">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Real Web page</a>
             </div>
           </div>
           <!-- End Sub-Menu -->
