@@ -7,7 +7,7 @@
 
 # ScreenShots
 1. Menu
-![alt tag](https://github.com/Lonnia/SimpleWeb-Codeigniter-Bootstrap/blob/master/ScreenShots/menu.png) { height: 200px; }
+![alt tag](https://github.com/Lonnia/SimpleWeb-Codeigniter-Bootstrap/blob/master/ScreenShots/menu.png)
 2. Sub-Menu : Board
 ![alt tag](https://github.com/Lonnia/SimpleWeb-Codeigniter-Bootstrap/blob/master/ScreenShots/sub_board.png)
 
