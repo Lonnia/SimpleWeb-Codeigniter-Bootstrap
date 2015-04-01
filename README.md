@@ -5,6 +5,14 @@
 1. Create board(a table of database) with database.sql
 2. Upload folders and files properly
 
+# ScreenShots
+1. Menu
+![alt tag](https://github.com/Lonnia/SimpleWeb-Codeigniter-Bootstrap/blob/master/ScreenShots/menu.png)
+2. Sub-Menu : Board
+![alt tag](https://github.com/Lonnia/SimpleWeb-Codeigniter-Bootstrap/blob/master/ScreenShots/sub_board.png)
+
+3. Sub-Menu : Files & Source Codes
+![alt tag](https://github.com/Lonnia/SimpleWeb-Codeigniter-Bootstrap/blob/master/ScreenShots/sub_files%26sourcecodes.png)
 # Reference
 - http://www.getbootstrap.com/
 - http://www.bootply.com/tlpm3v2D3i
