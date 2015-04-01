@@ -5,7 +5,7 @@
 	<br>
 	# Presentation File
 	&nbsp; &nbsp; &nbsp; &nbsp; 
-	<a href="https://www.dropbox.com/s/lq8whbkym2px0tf/150404_CoCo_WebDev..pdf?dl=0">
+	<a href="https://www.dropbox.com/s/lq8whbkym2px0tf/150404_CoCo_WebDev..pdf?dl=0" target="_blank">
 		Download Now (DropBox)
 	</a>
 <hr>
