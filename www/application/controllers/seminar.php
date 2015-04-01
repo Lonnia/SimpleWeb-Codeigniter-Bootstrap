@@ -67,8 +67,10 @@ class Seminar extends CI_Controller {
 	public function board()
 	{
 		// initialize new variables to store POST data
-		$uploader = $this->input->post('uploader');
-		$contents = $this->input->post('contents');
+		// The second optional parameter lets you run the data through the XSS filter. 
+		// It's enabled by setting the second parameter to boolean TRUE.
+		$uploader = $this->input->post('uploader', TRUE);
+		$contents = $this->input->post('contents', TRUE);
 
 		// if there is post data
 		if( $uploader!='' && $contents!='' ){
