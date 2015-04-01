@@ -5,30 +5,30 @@
 	<br>
 	# Presentation File
 	&nbsp; &nbsp; &nbsp; &nbsp; 
-	<a href="#">
-		Download Now
+	<a href="https://www.dropbox.com/s/lq8whbkym2px0tf/150404_CoCo_WebDev..pdf?dl=0">
+		Download Now (DropBox)
 	</a>
 <hr>
 
 	# Simple Board (only based on PHP)
 	&nbsp; &nbsp; &nbsp; &nbsp; 
-	<a href="https://github.com/Lonnia/SimpleBoard" target="_blank">
-		www.github.com/Lonnia/SimpleBoard
+	<a href="https://github.com/Lonnia/SimpleBoard-PHP" target="_blank">
+		www.github.com/Lonnia/SimpleBoard-PHP
 	</a>
 	<br><br>
 
 	# Simple Board (based on Codeigniter, PHP)
 	&nbsp; &nbsp; &nbsp; &nbsp; 
-	<a href="https://github.com/Lonnia/SimpleBoard-Codeigniter-PHP" target="_blank">
-		www.github.com/Lonnia/SimpleBoard-Codeigniter-PHP
+	<a href="https://github.com/Lonnia/SimpleBoard-Codeigniter" target="_blank">
+		www.github.com/Lonnia/SimpleBoard-Codeigniter
 	</a>
 
 	<br><br>
 
 	# Simple Webpage (Codeigniter, PHP)
 	&nbsp; &nbsp; &nbsp; &nbsp; 
-	<a href="https://github.com/Lonnia/SimpleWeb-Codeigniter-PHP" target="_blank">
-		www.github.com/Lonnia/SimpleWeb-Codeigniter-PHP
+	<a href="https://github.com/Lonnia/SimpleWeb-Codeigniter-Bootstrap" target="_blank">
+		www.github.com/Lonnia/SimpleWeb-Codeigniter-Bootstrap
 	</a>
 
 <hr>
