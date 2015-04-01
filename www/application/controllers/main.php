@@ -4,15 +4,17 @@ class Main extends CI_Controller {
 
 	public function index()
 	{
-		// @import head.html 
-		$this->load->view('include/header_view');
-		// @import navbar.html 
-		$this->load->view('include/navbar_view');
-		// @import contents.html 
+		// @import footer_view.php 
+		$this->load->view('/include/header_view');
 
-		$this->load->view('main_view');			// @import footer.html  
-		
-		$this->load->view('include/footer_view');
+		// @import navbar_view.php 
+		$this->load->view('/include/navbar_view');
+
+		// @import main_view.php 
+		$this->load->view('/main_view');
+
+		// @import footer_view.php 
+		$this->load->view('/include/footer_view');
 	}
 
 

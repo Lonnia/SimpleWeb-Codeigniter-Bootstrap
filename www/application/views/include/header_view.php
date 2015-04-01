@@ -11,8 +11,6 @@
   <!-- END META -->
 
   <!-- FONTS -->
-  
-
   <link href='http://fonts.googleapis.com/css?family=Dosis:400,500,600' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
   <!-- END FONTS -->
@@ -24,5 +22,5 @@
   
 </head>
 
-<body>
 
+<body>

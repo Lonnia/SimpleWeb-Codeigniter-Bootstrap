@@ -2,6 +2,7 @@
 
 <div style="margin-left:70px;margin-top:50px;" >
 
+
     <?$this->load->helper('form');?>
 
     <form class="form-signin" method="POST" action="/seminar/board">
@@ -38,8 +39,7 @@
         </tr>
 
 
-        <?
-        if($result==NULL){?>
+        <?if($result==NULL){?>
             <tr align="center" valign="middle" style="height:1px;background-color:#CCCCCC;">
                 <td></td>
                 <td></td>
