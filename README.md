@@ -1,4 +1,4 @@
-# SimpleWeb-Codeigniter-PHP
+# SimpleWeb-Codeigniter-Bootstrap
 - There are simple source codes to learn developing Web page based on PHP, Codeigniter, Bootstrap
 
 # Before start
