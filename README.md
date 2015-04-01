@@ -3,7 +3,7 @@
 
 # Before start
 1. Create board(a table of database) with database.sql
-2. Upload a folder or files properly
+2. Upload folders and files properly
 
 # Reference
 - http://www.getbootstrap.com/
