@@ -6,10 +6,8 @@ class Board_model extends CI_Model {
   // you can use basic functions without helpers of codeigniter
   // if you want to use other functions, use the helpers
   public function __construct(){
+    // Call the Model constructor
   parent::__construct();
-
-    // to connect the database
-    $this->load->database();
 
   }
 
